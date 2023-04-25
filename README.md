@@ -15,3 +15,4 @@ NOTE: to run the scripts outside Git Bash type this command:
 - [script_08.sh](script_08.sh) (case statements)  
 - [script_09.sh](script_09.sh) (arrays)  
 - [script_10.sh](script_10.sh) (loops)  
+- [script_11.sh](script_11.sh) (functions)  
