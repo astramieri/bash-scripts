@@ -10,3 +10,4 @@ NOTE: to run the scripts outside Git Bash type this command:
 - [script_03.sh](script_03.sh) (positional arguments) 
 - [script_04.sh](script_04.sh) (piping)  
 - [script_05.sh](script_05.sh) (output redirection)  
+- [script_06.sh](script_06.sh) (input redirection)  
