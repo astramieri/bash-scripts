@@ -11,3 +11,4 @@ NOTE: to run the scripts outside Git Bash type this command:
 - [script_04.sh](script_04.sh) (piping)  
 - [script_05.sh](script_05.sh) (output redirection)  
 - [script_06.sh](script_06.sh) (input redirection)  
+- [script_07.sh](script_07.sh) (test operators)  
