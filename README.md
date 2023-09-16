@@ -17,4 +17,5 @@ NOTE: to run the scripts outside Git Bash type this command:
 - [script_10.sh](script_10.sh) (loops)  
 - [script_11.sh](script_11.sh) (functions)  
 - [script_12.sh](script_12.sh) (sed)  
-- [script_13.sh](script_13.sh) (printf)  
+- [script_13.sh](script_13.sh) (printf)
+- [script_14.sh](script_14.sh) (flock)  
